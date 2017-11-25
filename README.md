@@ -1,7 +1,10 @@
 # qt_pointcloud_condit_filtering
 This repository mainly designed a simple Qt interface to help do the pointcloud conditional filtering.
 
-especially, when QSlider moves, double number displays.
+Especially, when QSlider moves, double number displays.
+
+This is a small example of another repository [qt](https://github.com/Coldplayplay/qt).
+
 ## command
 make build
 
